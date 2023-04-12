@@ -67,6 +67,7 @@ nav button {
   border: none;
   color: #ffffff;
   background-color: hsl(322, 100%, 66%);
+  text-decoration: none;
 }
 
 .hero-section img {
@@ -198,6 +199,10 @@ nav button {
   height: 1rem;
   color: white;
   margin-top: 6rem;
+  
+}
+.phone p{
+  text-decoration: none;
 }
 .message img {
   width: 1rem;
@@ -267,7 +272,7 @@ nav button {
     margin: auto;
   }
   .container button {
-    width: 15%;
+    width: 10%;
   }
   .hero-content h2 {
     margin-left: -40px;
@@ -299,7 +304,7 @@ nav button {
     margin-top: 50px;
   }
   .grow-content h2 {
-    margin-left: 95px;
+    margin-left: 100px;
   }
   .grow-img {
     width: 60%;
@@ -315,7 +320,7 @@ nav button {
     text-align: left;
   }
   .flow-content h2 {
-    margin-left: 58px;
+    margin-left: 62px;
   }
 
   .user-section {
@@ -326,7 +331,7 @@ nav button {
     text-align: left;
   }
   .user-content h2 {
-    margin-left: 60px;
+    margin-left: 65px;
   }
   .user-img {
     width: 70%;
