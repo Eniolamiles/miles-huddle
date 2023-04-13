@@ -18,7 +18,7 @@ nav {
   height: 7rem;
 }
 nav img {
-  width: 5rem;
+  width: 7rem;
 }
 
 nav button {
@@ -276,11 +276,13 @@ nav button {
   }
   .hero-content h2 {
     margin-left: -40px;
+    font-size:30px;
   }
   .hero-content p {
     margin-left: -40px;
-    font-size: 10px;
+    font-size: 13px;
     line-height: 1rem;
+    font-weight: 400;
   }
 
   .hero-content {
@@ -288,7 +290,7 @@ nav button {
     width: 50%;
   }
   .hero-section button {
-    width: 50%;
+    width: 40%;
     margin-left: -40px;
   }
   .hero-section img {
